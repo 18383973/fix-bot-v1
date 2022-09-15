@@ -49,7 +49,7 @@ global.psaweria = 'https://saweria.com/mrw4h1d'
 global.nomorbot = '6285878258447'
 global.nomorown = '6285878258447'
 global.namebot = 'VinnXD-MD'
-global.nameown = 'Vincenttt¿'
+global.nameown = 'Vincenttt ¿'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -107,7 +107,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
+global.wm = '                「 Vincenttt ¿ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘VinnXD-MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'VinnXD-MD '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
@@ -188,7 +188,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'VinnXD-MD'
-global.stickauth = `By Vincenttt¿`
+global.stickauth = `By Vincenttt ¿`
 
 global.multiplier = 38 // The higher, The harder levelup
 
